@@ -1,2 +1,2 @@
-# CS361_project
+# Timeline
 Timeline Visualization Tool
